@@ -1,1 +1,1 @@
-print("goatbridge")
+print("bridge")
